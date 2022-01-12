@@ -12,3 +12,4 @@ Sistema de cadastro de finanças pessoais, desenvolvido para fins de estudo e ap
 
 # Preview
 
+![Sistem](https://user-images.githubusercontent.com/74063350/149072409-effa2c12-41c6-43c9-80fb-7b1077057b86.PNG)
