@@ -1,6 +1,6 @@
 # Sistema-Financeiro
 
-Sistema de cadastro de finanças pessoais, desenvolvido para fins de estudo e aprofundação no framework React.js.
+Sistema de cadastro de finanças pessoais, desenvolvido para fins de estudo e aprofundação no framework React.js. Foi utilizado TailwindCSS para estilização e Redux com persist store para armazenamento de dados.
 
 # Tecnologias utilizadas  
 
