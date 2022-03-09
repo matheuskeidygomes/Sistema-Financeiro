@@ -23,9 +23,9 @@ Sistema de cadastro de finanças pessoais, desenvolvido para fins de estudo e ap
 # Features
 
 - [x] Adicionar despesas/gastos mensais
-- [x] Adicionar saldo disponível mensal
-- [x] Visualizar lista de despesas e saldos especificados por data, categoria, título e valor.
-- [x] Visualizar se o saldo do mês se encontra negativo ou positivo.
+- [x] Adicionar receitas/ganhos mensais.
+- [x] Visualizar lista de despesas e receitas especificadas por data, categoria, título e valor.
+- [x] Visualizar balanço do mês atual.
 
 # Screenshots
 
